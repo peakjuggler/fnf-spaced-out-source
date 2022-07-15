@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nightCutter.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nightCutter0000" x="10" y="10" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0001" x="2278" y="10" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0002" x="4546" y="10" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0003" x="10" y="1467" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0004" x="2278" y="1467" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0005" x="4546" y="1467" width="2258" height="1447"/>
+	<SubTexture name="nightCutter0006" x="10" y="2924" width="2258" height="1447"/>
+</TextureAtlas>

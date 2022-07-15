@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireWorkz.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fireworks overall0000" x="10" y="10" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0001" x="10" y="10" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0002" x="1672" y="10" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0003" x="3334" y="10" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0004" x="4996" y="10" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0005" x="10" y="1004" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0006" x="1672" y="1004" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0007" x="3334" y="1004" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0008" x="3334" y="1004" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0009" x="4996" y="1004" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0010" x="10" y="1998" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0011" x="1672" y="1998" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0012" x="3334" y="1998" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0013" x="4996" y="1998" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0014" x="10" y="2992" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0015" x="10" y="2992" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0016" x="1672" y="2992" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0017" x="3334" y="2992" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0018" x="4996" y="2992" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0019" x="10" y="3986" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0020" x="1672" y="3986" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0021" x="3334" y="3986" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0022" x="3334" y="3986" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0023" x="4996" y="3986" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0024" x="10" y="4980" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0025" x="1672" y="4980" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0026" x="3334" y="4980" width="1652" height="984"/>
+	<SubTexture name="Fireworks overall0027" x="4996" y="4980" width="1652" height="984"/>
+</TextureAtlas>

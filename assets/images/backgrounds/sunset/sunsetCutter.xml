@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunsetCutter.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunsetCutter0000" x="10" y="10" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0001" x="2278" y="10" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0002" x="4546" y="10" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0003" x="10" y="1467" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0004" x="2278" y="1467" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0005" x="4546" y="1467" width="2258" height="1447"/>
+	<SubTexture name="sunsetCutter0006" x="10" y="2924" width="2258" height="1447"/>
+</TextureAtlas>

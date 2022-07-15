@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flashFuck.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg graiden0000" x="10" y="10" width="2383" height="441"/>
+	<SubTexture name="bg graiden0001" x="10" y="10" width="2383" height="441"/>
+	<SubTexture name="bg graiden0002" x="2443" y="10" width="2383" height="441"/>
+	<SubTexture name="bg graiden0003" x="4876" y="10" width="2383" height="441"/>
+	<SubTexture name="bg graiden0004" x="10" y="501" width="2383" height="441"/>
+	<SubTexture name="bg graiden0005" x="2443" y="501" width="2383" height="441"/>
+	<SubTexture name="bg graiden0006" x="4876" y="501" width="2383" height="441"/>
+	<SubTexture name="bg graiden0007" x="10" y="992" width="2383" height="441"/>
+	<SubTexture name="bg graiden0008" x="2443" y="992" width="2383" height="441"/>
+	<SubTexture name="bg graiden0009" x="4876" y="992" width="2383" height="441"/>
+	<SubTexture name="bg graiden0010" x="10" y="1483" width="2383" height="441"/>
+	<SubTexture name="bg graiden0011" x="2443" y="1483" width="2383" height="441"/>
+	<SubTexture name="bg graiden0012" x="4876" y="1483" width="2383" height="441"/>
+	<SubTexture name="bg graiden0013" x="4876" y="1483" width="2383" height="441"/>
+</TextureAtlas>
