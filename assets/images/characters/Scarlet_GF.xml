@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scarlet_GF.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BH GF Cheer instance 10000" x="10" y="10" width="603" height="661" frameX="-2" frameY="-1" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10001" x="663" y="10" width="606" height="661" frameX="0" frameY="0" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10002" x="1319" y="10" width="606" height="657" frameX="0" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10003" x="1975" y="10" width="603" height="658" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10004" x="2628" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10005" x="3281" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10006" x="3934" y="10" width="603" height="658" frameX="-2" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10007" x="4587" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10008" x="2628" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10009" x="3281" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10010" x="3934" y="10" width="603" height="658" frameX="-2" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10011" x="4587" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10012" x="2628" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10013" x="3281" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10014" x="3934" y="10" width="603" height="658" frameX="-2" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10015" x="5240" y="10" width="606" height="658" frameX="0" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10016" x="5896" y="10" width="606" height="658" frameX="0" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10017" x="6552" y="10" width="603" height="658" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10018" x="3934" y="10" width="603" height="658" frameX="-2" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10019" x="4587" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10020" x="2628" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10021" x="3281" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10022" x="3934" y="10" width="603" height="658" frameX="-2" frameY="-4" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10023" x="4587" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Cheer instance 10024" x="2628" y="10" width="603" height="659" frameX="-2" frameY="-3" frameWidth="606" frameHeight="662"/>
+	<SubTexture name="BH GF Dancing Beat instance 10000" x="7205" y="10" width="602" height="633" frameX="-3" frameY="-17" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10001" x="10" y="721" width="607" height="633" frameX="0" frameY="-17" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10002" x="667" y="721" width="607" height="632" frameX="0" frameY="-18" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10003" x="1324" y="721" width="604" height="632" frameX="-2" frameY="-18" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10004" x="1978" y="721" width="602" height="634" frameX="-3" frameY="-16" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10005" x="2630" y="721" width="602" height="634" frameX="-3" frameY="-16" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10006" x="3282" y="721" width="602" height="639" frameX="-3" frameY="-11" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10007" x="3934" y="721" width="602" height="648" frameX="-3" frameY="-2" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10008" x="4586" y="721" width="602" height="648" frameX="-3" frameY="-2" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10009" x="5238" y="721" width="602" height="648" frameX="-3" frameY="-2" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10010" x="5890" y="721" width="602" height="650" frameX="-3" frameY="0" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10011" x="6542" y="721" width="602" height="650" frameX="-3" frameY="0" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10012" x="7194" y="721" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10013" x="10" y="1421" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10014" x="662" y="1421" width="602" height="634" frameX="-3" frameY="-16" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10015" x="1314" y="1421" width="607" height="634" frameX="0" frameY="-16" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10016" x="1971" y="1421" width="607" height="632" frameX="0" frameY="-18" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10017" x="2628" y="1421" width="604" height="632" frameX="-2" frameY="-18" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10018" x="3282" y="1421" width="602" height="636" frameX="-3" frameY="-14" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10019" x="3934" y="1421" width="602" height="636" frameX="-3" frameY="-14" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10020" x="4586" y="1421" width="602" height="641" frameX="-3" frameY="-9" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10021" x="5238" y="1421" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10022" x="5890" y="1421" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10023" x="6542" y="1421" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10024" x="5890" y="721" width="602" height="650" frameX="-3" frameY="0" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10025" x="6542" y="721" width="602" height="650" frameX="-3" frameY="0" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10026" x="7194" y="1421" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10027" x="10" y="2120" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10028" x="662" y="2120" width="602" height="649" frameX="-3" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF Dancing Beat instance 10029" x="1314" y="2120" width="607" height="649" frameX="0" frameY="-1" frameWidth="607" frameHeight="650"/>
+	<SubTexture name="BH GF sad instance 10000" x="1971" y="2120" width="602" height="634" frameX="0" frameY="-4" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10001" x="2623" y="2120" width="602" height="634" frameX="0" frameY="-4" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10002" x="3275" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10003" x="3927" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10004" x="4579" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10005" x="5231" y="2120" width="602" height="638"/>
+	<SubTexture name="BH GF sad instance 10006" x="5883" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10007" x="6535" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10008" x="7187" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10009" x="10" y="2819" width="602" height="638"/>
+	<SubTexture name="BH GF sad instance 10010" x="3275" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10011" x="3927" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10012" x="4579" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10013" x="5231" y="2120" width="602" height="638"/>
+	<SubTexture name="BH GF sad instance 10014" x="5883" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10015" x="6535" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10016" x="7187" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10017" x="10" y="2819" width="602" height="638"/>
+	<SubTexture name="BH GF sad instance 10018" x="3275" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10019" x="3927" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10020" x="4579" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10021" x="5231" y="2120" width="602" height="638"/>
+	<SubTexture name="BH GF sad instance 10022" x="5883" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10023" x="6535" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+	<SubTexture name="BH GF sad instance 10024" x="7187" y="2120" width="602" height="637" frameX="0" frameY="-1" frameWidth="602" frameHeight="638"/>
+</TextureAtlas>
