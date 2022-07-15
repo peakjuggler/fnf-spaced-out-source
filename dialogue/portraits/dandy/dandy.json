@@ -1,0 +1,9 @@
+{
+    "name": "dandy",
+    "expressions": {
+        "normal": "Dandy Idle instance 1"
+    },
+    "position": "left",
+
+    "sounds": ["D_1", "D_2", "D_3"]
+}
